@@ -1,0 +1,12 @@
+body {
+  background: white url('/images/background.jpeg');
+  background-color: rgba(0, 0, 0, 0.5);
+  background-repeat: no-repeat;
+  color: black;
+  font-family: serif;
+  font-size: 30px;
+  padding: 0px;
+  margin: 0px;
+  font-style: italic;
+  text-shadow: white 0px 0px 10px;
+}
